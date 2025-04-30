@@ -1,0 +1,6 @@
+# tensorflow
+mediapipe
+pymongo
+bcrypt
+dotenv
+flask
